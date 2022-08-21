@@ -28,7 +28,7 @@ instagram.addEventListener('click', () => {
 });
 
 linkedIn.addEventListener('click', () => {
-    window.location.href = "https://www.linkedin.com";
+    window.location.href = "https://www.linkedin.com/in/jazzlyn-m/";
 });
 
 email.addEventListener('click', () => {
