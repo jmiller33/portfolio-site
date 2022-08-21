@@ -18,19 +18,3 @@ webDesignButton.addEventListener('click', () => {
 illustrationButton.addEventListener('click', () => {
     window.location.href = "illustrations.html";
 });
-
-const instagram = document.querySelector("#ig");
-const linkedIn = document.querySelector("#li");
-const email = document.querySelector("#email");
-
-instagram.addEventListener('click', () => {
-    window.location.href = "https://www.instagram.com/jazzlyn.miller.designs";
-});
-
-linkedIn.addEventListener('click', () => {
-    window.location.href = "https://www.linkedin.com/in/jazzlyn-m/";
-});
-
-email.addEventListener('click', () => {
-    window.location.href = "mailto: millerjazzlyna@gmail.com";
-});

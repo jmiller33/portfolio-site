@@ -132,18 +132,19 @@ ul {
 
 
 .projects {
-    width:80%;
+    width:90%;
     display: flex;
     flex-wrap: wrap;
     gap:30px;
     justify-content: center;
+    margin:50px;
 }
 
 .project {
     display: flex;
     flex-direction: column;
     gap:20px;
-    width:450px;
+    width:400px;
 
 }
 
@@ -158,4 +159,14 @@ ul {
     font-size: larger;
     font-weight: lighter;
     text-align: center;
+}
+
+.image {
+    width:400px;
+}
+
+.note {
+    font-size: large;
+    font-weight: bold;
+    margin:30px;
 }
